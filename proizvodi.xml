@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE Prodavnica SYSTEM "proizvodi.dtd">
+<?xml-model href="proizvodi.xsd"?>
+<Prodavnica>
+  <Proizvod>
+    <Kategorija vrsta="laptop"></Kategorija>
+    <Cena valuta="RSD">124000</Cena>
+    <Tekst>MacBook</Tekst>
+    <Tag>programiranje posao kvalitet</Tag>
+    <Akcija cena="100000" datumIsteka="2021-01-01"></Akcija>
+  </Proizvod>
+
+  <Proizvod>
+    <Kategorija vrsta="laptop"></Kategorija>
+    <Cena valuta="RSD">45600</Cena>
+    <Tekst>Fujitsu K243</Tekst>
+    <Tag>skola laptop student</Tag>
+  </Proizvod>
+
+  <Proizvod>
+    <Kategorija vrsta="laptop"></Kategorija>
+    <Cena valuta="RSD">15000</Cena>
+    <Tekst>Hama DtD3</Tekst>
+    <Tag>svakodnevnica opusteno kvalitetno</Tag>
+  </Proizvod>
+
+  <Proizvod>
+    <Kategorija vrsta="mis"></Kategorija>
+    <Cena valuta="RSD">3200</Cena>
+    <Tekst>Bloody Gaming mouse</Tekst>
+    <Tag>gaming mouse fast</Tag>
+  </Proizvod>
+
+  <Proizvod>
+    <Kategorija vrsta="tastatura"></Kategorija>
+    <Cena valuta="RSD">50023</Cena>
+    <Tekst>A4Tech K450</Tekst>
+    <Tag>mehanicka drajver robusno</Tag>
+    <Akcija cena="32500" datumIsteka="2022-08-03"></Akcija>
+  </Proizvod>
+</Prodavnica>
