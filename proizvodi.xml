@@ -5,7 +5,7 @@
   <Proizvod>
     <Kategorija vrsta="laptop"></Kategorija>
     <Cena valuta="RSD">124000</Cena>
-    <Tekst>MacBook</Tekst>
+    <Tekst>MacBook Pro</Tekst>
     <Tag>programiranje posao kvalitet</Tag>
     <Akcija cena="100000" datumIsteka="2021-01-01"></Akcija>
   </Proizvod>
@@ -20,7 +20,7 @@
   <Proizvod>
     <Kategorija vrsta="laptop"></Kategorija>
     <Cena valuta="RSD">15000</Cena>
-    <Tekst>Hama DtD3</Tekst>
+    <Tekst>Hama DtD3 Pro Edition</Tekst>
     <Tag>svakodnevnica opusteno kvalitetno</Tag>
   </Proizvod>
 
